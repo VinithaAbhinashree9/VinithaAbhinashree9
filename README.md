@@ -8,3 +8,4 @@ I’m also pursuing my academics alongside:
 
 I enjoy exploring Python, data science, and AI concepts step by step. I’m still learning and growing, but I love building things, trying new projects, and improving my skills every day.
 
+Right now, my focus is on becoming strong in AI, Data Science, and Full Stack Development, and gaining hands-on experience through projects and practice.
