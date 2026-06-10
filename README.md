@@ -1,11 +1,26 @@
-## Hi there 👋
+# Hi , I'm Vinitha Abhinashree M
 
-I have completed my Bachelor of Computer Applications (BCA) at New Horizon College. I am currently an AI Trainee at NSTI, Bangalore, and I am passionate about learning how AI and data can be used to solve real-world problems.
+BCA Graduate |  IIT Madras BS Data Science Student
 
-I am also pursuing my academics alongside:
+ Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
-🎓 BS in Data Science at IIT Madras
+##  Skills
+- Python, Java, SQL
+- Machine Learning & Deep Learning
+- Computer Vision & NLP
+- Flask, Streamlit, Power BI
+- TensorFlow, OpenCV, Scikit-Learn
 
-I enjoy exploring Python, data science, and AI concepts step by step. I am still learning and growing, but I love building things, trying new projects, and improving my skills every day.
+##  Projects
+- AI OCR Studio
+- DocuMind RAG Chatbot
+- Handwritten Digit Recognition
+- Rice Variety Classification
+- Brain Tumor Detection
+- Plant Disease Detection
 
-Right now, my focus is on becoming strong in AI, Data Science, and Full Stack Development, while gaining hands-on experience through projects and practice.
+##  Connect
+- LinkedIn: https://www.linkedin.com/in/vinitha88/
+- Email: vinitha.shree9923@gmail.com
+
+⭐ Exploring AI, building impactful projects, and continuously learning.
