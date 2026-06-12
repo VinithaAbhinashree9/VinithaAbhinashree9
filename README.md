@@ -5,7 +5,7 @@ BCA Graduate |  IIT Madras BS Data Science Student
  Passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Vinitha%20Abhinashree%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20LLM%20Systems%20Builder&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Vinitha%20Abhinashree%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Trainee%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20LLM%20Systems%20Builder&descAlignY=58&descSize=16" />
 </p>
 
 <p align="center">
