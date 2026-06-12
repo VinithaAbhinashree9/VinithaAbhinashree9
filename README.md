@@ -337,37 +337,8 @@ Built and deployed production Java web applications using Spring Boot, Hibernate
 
 ## ◈ Contribution Pacman
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/pacman-contribution-graph.svg" />
 </picture>
-
-## ◈ Current Focus
-
-```yaml
-learning:
-  - Advanced LLM agent architectures & MCP workflows
-  - Agentic AI systems with tool use and memory
-  - System design for production ML pipelines
-
-building:
-  - AI-powered developer tools
-  - Multi-modal document intelligence applications
-  - End-to-end RAG systems with custom retrieval strategies
-
-exploring:
-  - Vector databases (Pinecone, Weaviate, Chroma)
-  - Fine-tuning open-source LLMs
-  - Scalable MLOps with GitHub Actions and Docker
-
-open_to:
-  - AI / ML Engineer roles
-  - LLM & Agent Engineering positions
-  - Full-Stack AI Developer opportunities
-  - Research collaborations in applied AI
-```
-
----
 
 ## ◈ Connect
 
