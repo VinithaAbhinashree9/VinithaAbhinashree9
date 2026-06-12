@@ -90,19 +90,6 @@ Results-driven AI/ML engineer who builds and deploys production-grade AI systems
 
 ---
 
-## ◈ AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **LLM Systems & RAG** | ████████████ Expert | LangChain · LLaMA 3.3 70B · Groq API · FAISS · chunk-hash embeddings |
-| **Computer Vision** | ███████████░ Advanced | MobileNetV2 · VGG16 · OpenCV · Grad-CAM · transfer learning |
-| **OCR & Document AI** | ███████████░ Advanced | Tesseract · EasyOCR · TrOCR · PaddleOCR · confidence-weighted fusion |
-| **NLP** | ██████████░░ Proficient | BERT · GPT-2 · spaCy · NLTK · sentiment analysis · ATS scoring |
-| **Full-Stack AI** | ██████████░░ Proficient | Flask · FastAPI · Streamlit · Gradio · Docker · Hugging Face Spaces |
-| **Cloud & MLOps** | █████████░░░ Proficient | GCP (Vertex AI, Gemini) · Docker · GitHub Actions · Render · Railway |
-| **Data & BI** | █████████░░░ Proficient | Power BI · DAX · Pandas · Matplotlib · Seaborn · SQL |
-
----
 
 ## ◈ Featured Projects
 
@@ -340,14 +327,6 @@ Built and deployed production Java web applications using Spring Boot, Hibernate
 
 ---
 
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VinithaAbhinashree9&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8&no-bg=true" />
-</p>
-
----
-
 ## ◈ Contribution Activity
 
 <p align="center">
@@ -356,13 +335,14 @@ Built and deployed production Java web applications using Spring Boot, Hibernate
 
 ---
 
-## ◈ Contribution Snake
+## ◈ Contribution Pac-man
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/pacman-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/pacman.svg">
+    <img alt="pacman contribution graph" src="assets/demo/pacman.svg">
+</picture>
 
----
 
 ## ◈ Current Focus
 
