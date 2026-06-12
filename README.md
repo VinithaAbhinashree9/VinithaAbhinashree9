@@ -330,10 +330,16 @@ Built and deployed production Java web applications using Spring Boot, Hibernate
 ---
 
 ## ◈ Contribution Pacman
-<picture>
-  <img src="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/pacman-contribution-graph.svg" />
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/VinithaAbhinashree9/VinithaAbhinashree9/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+<p align="center">
+  <i>generated with <a href="https://abozanona.github.io/pacman-contribution-graph/">abozanona/pacman-contribution-graph</a></i>
+</p>
 ## ◈ Connect
 
 <p align="center">
