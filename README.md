@@ -35,12 +35,6 @@
 </p>
 
 ---
-
-
-Results-driven AI/ML engineer who builds and deploys production-grade AI systems end-to-end — from LLM-powered RAG chatbots and multi-engine OCR pipelines to deep learning classifiers with real-world accuracy benchmarks. Strong bias toward execution: translate requirements into shipped products, maintain clean version-controlled codebases, and iterate rapidly.
-
-**Open to:** AI/ML Trainee · LLM/Agent Engineer · Full-Stack AI Developer · Data Science roles
-
 ## ◈ Contribution Pacman
 <div align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
