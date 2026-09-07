@@ -36,53 +36,38 @@
 
 ---
 
-## ◈ About
-
-```typescript
-const vinitha: AIEngineer = {
-  focus:      ["LLM Systems", "RAG Pipelines", "Computer Vision", "Full-Stack AI"],
-  education:  ["BSc Data Science — IIT Madras", "BCA (8.8 CGPA) — NHCE Bengaluru"],
-  currently:  "AI Programming Assistant @ DGT × Microsoft × Edunet Foundation",
-  stack:      ["Python", "LangChain", "Flask", "FastAPI", "TensorFlow", "React"],
-  mindset:    "Ship fast. Iterate on feedback. Own the project end-to-end.",
-};
-```
 
 Results-driven AI/ML engineer who builds and deploys production-grade AI systems end-to-end — from LLM-powered RAG chatbots and multi-engine OCR pipelines to deep learning classifiers with real-world accuracy benchmarks. Strong bias toward execution: translate requirements into shipped products, maintain clean version-controlled codebases, and iterate rapidly.
 
-**Open to:** AI/ML Engineer · LLM/Agent Engineer · Full-Stack AI Developer · Data Science roles
+**Open to:** AI/ML Trainee · LLM/Agent Engineer · Full-Stack AI Developer · Data Science roles
 
----
+## ◈ Contribution Pacman
+<div align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+</div>
 
-## ◈ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,html,css,sql&theme=dark&perline=7" />
-</p>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/pacman-contribution-graph.svg">
+</picture>
+<br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,nextjs,spring&theme=dark&perline=5" />
-</p>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv,docker,gcp,azure&theme=dark&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github,mysql,postgres,linux,vscode,postman&theme=dark&perline=6" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-00ADD8?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq%20API-FF6B35?style=flat-square&logo=lightning&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-4B8BBE?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
-
----
 
 
 ## ◈ Featured Projects
@@ -228,33 +213,6 @@ Built and deployed end-to-end AI applications using Generative AI tools (Gemini 
 
 ---
 
-**Python with AI Intern** — Hope Foundation · Bengaluru
-`Feb 2025 – Mar 2025`
-
-Built a real-time Face Detection system using ResNet, CAFFE, and SSD ML frameworks. Developed Python applications applying OOP and event-driven design.
-
-<p>
-  <img src="https://img.shields.io/badge/ResNet-8B5CF6?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-</p>
-
----
-
-**Full Stack Development Intern** — Take It Smart Pvt Ltd · Bengaluru
-`Jan 2025 – Feb 2025`
-
-Built and deployed production Java web applications using Spring Boot, Hibernate, JSP, Servlets, and MySQL. Applied RESTful API design patterns and version control in a live development environment.
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=flat-square" />
-</p>
-
----
-
 ## ◈ Achievements
 
 <p align="center">
@@ -322,31 +280,6 @@ Built and deployed production Java web applications using Spring Boot, Hibernate
 ---
 
 
-## ◈ Contribution Pacman
-<div align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-</div>
-
-
-<br>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Omkarkoli727/Omkarkoli727/output/pacman-contribution-graph.svg">
-</picture>
-<br>
 
 ## ◈ Connect
 
