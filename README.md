@@ -321,7 +321,6 @@ Built and deployed production Java web applications using Spring Boot, Hibernate
 
 ---
 
-## ◈ Contribution Activity
 
 ## ◈ Contribution Pacman
 <div align="left">
